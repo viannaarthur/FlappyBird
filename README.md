@@ -1,5 +1,4 @@
 # FlappyBird
-Recriando o popular jogo de celular do zero. O principal objetivo é melhorar minha lógica de programação e minha capacidade de tirar projeetos do papel.
 
 * FlappyBird v1
 
